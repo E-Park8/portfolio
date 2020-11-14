@@ -10,14 +10,21 @@ const Home = () => {
     <hr/>
     <div>
     <section className="col-12">
+                      <a name='about'></a>
                         <h1>About Me</h1>
                         <p>
                             Hello, my name is Eric Park and I am a Full-Stack Web Developer as well as a recent graduate of the UCI Coding Bootcamp.  
                             <br/>
-                            <p><Button className='col-4' color="success"><a href="https://docs.google.com/document/d/1fhR-W9pTb3rxZCmACeilp7PmBP4LjCNYnFZe8KachOY/edit?usp=sharing" className="btn btn-success" target='_blank'> Online Resume</a></Button></p>
+                            {/* <p><Button className='col-4' color="success"><a href="https://docs.google.com/document/d/1fhR-W9pTb3rxZCmACeilp7PmBP4LjCNYnFZe8KachOY/edit?usp=sharing" className="btn btn-success" target='_blank'> Online Resume</a></Button></p>
                             <p><Button className='col-4' color ='info'><a href="https://www.linkedin.com/in/eric-park-7122821b6/" className="btn btn-info" target='_blank'>Linkedin</a></Button></p>
-                            <p><Button className='col-4' color ='secondary'><a href="https://github.com/E-Park8" className="btn btn-secondary" target='_blank'>Github Profile</a></Button> </p>
+                            <p><Button className='col-4' color ='secondary'><a href="https://github.com/E-Park8" className="btn btn-secondary" target='_blank'>Github Profile</a></Button> </p> */}
                         </p>
+                      <a name='projects'></a>
+                        <h1>Projects</h1>
+
+
+                      <a name='contact'></a>
+                        <h1>Contact Me!</h1>
 
                     </section>
     </div>
