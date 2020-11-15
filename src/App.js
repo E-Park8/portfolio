@@ -44,7 +44,7 @@ const App = () => {
               </NavItem>
             </Nav>
           </Collapse>
-        </Navbar>
+        </Navbar> </div>
 
 
       {/* Home Page with all the information */}
@@ -54,11 +54,11 @@ const App = () => {
           <Route path="/ericparkportfolio/portfolio" component={Portfolio} />
           <Route path="/ericparkportfolio/contact" component={Contact} />
         </Switch> */}
-      </div>
+     
 
 
       {/* Bottom Nav for footer..might remove */}
-      <footer className="fixed-bottom">     
+      {/* <footer className="fixed-bottom">     
     
       <Navbar color="dark" light expand="md">
 
@@ -69,7 +69,7 @@ const App = () => {
             </Nav>
         </Navbar>
 
-      </footer>
+      </footer> */}
 
     </Router>
   )
