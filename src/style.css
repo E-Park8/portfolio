@@ -1,10 +1,19 @@
 body {
-    background-color: lightblue !important;
+    background-color: rgb(246, 246, 225) !important;
 }
 
 .myName {
     text-align: center;
 }
+
+.center {
+    text-align: center;
+}
+
+.intro {
+    background-image: url('C:\Users\nati0\Desktop\portfolio\src\photos\oriental_background.png') !important;
+}
+
 
 .myPicture {
     width: 17%;
@@ -24,7 +33,34 @@ body {
 }
 
 .socials {
-    background-color: peachpuff !important;
+    background-image: url('C:\Users\nati0\Desktop\portfolio\src\photos\oriental_background.png') !important;
     padding-top: 75px;
     padding-bottom: 75px;
+}
+
+.projectPhoto {
+    width: 95%;
+    height: 250px;
+}
+
+.project {
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 75px;
+}
+
+.projectName {
+    text-align: center !important;
+}
+
+.projectDesc {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 750;
+    
+    
+}
+
+
+.repo {
+    border-radius: 30px !important;
 }
