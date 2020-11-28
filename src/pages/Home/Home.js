@@ -5,6 +5,7 @@ import About from '../../components/About'
 import Project from '../../components/Project'
 import me from '../../photos/me.jpg'
 import plyr from '../../photos/logo.jpg'
+import busk from '../../photos/busk.jpg'
 
 const Home = () => {
   return (
@@ -64,7 +65,7 @@ const Home = () => {
                 description={'We wanted to emulate the feel for the app BandsinTown by specifically catering to street performers also known as Buskers. Using this app, artists can create profiles with descriptions and social media links. The main draw of this application is that users can post when and where they will be performing so people in the area can catch a live show while also supporting smaller artists.'}
                 link={'https://guarded-crag-60613.herokuapp.com/'}
                 repo={'https://github.com/datrimboli/BusksInTown'}
-                image={'https://guarded-crag-60613.herokuapp.com/photos/mainPhoto.jpg'}
+                image={busk}
 
               />
 
