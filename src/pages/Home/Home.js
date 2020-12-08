@@ -31,7 +31,7 @@ const Home = () => {
             skillsBack={'Node.js, Python3, Express.js, Axios, Sequelize, Mongoose'}
             skillsData={'MySQL, MongoDB'}
             // Change the resume once it is updated
-            resume={'https://docs.google.com/document/d/1fhR-W9pTb3rxZCmACeilp7PmBP4LjCNYnFZe8KachOY/edit?usp=sharing'}
+            resume={'https://docs.google.com/document/d/1_EisTqdVkKrDsuh9ylmrEuBSHLQ-nQwYEyERG8JiuFY/edit?usp=sharing'}
             />          
           </p>
         </section>
