@@ -1,5 +1,4 @@
 import React from 'react'
-import '../../style.css'
 import {Row, Container} from 'reactstrap'
 import About from '../../components/About'
 import Project from '../../components/Project'
